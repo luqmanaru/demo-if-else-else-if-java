@@ -1,4 +1,4 @@
-# demo-if-else-if-bertahap-java
+# demo-if-else-else-if-java
 Program demonstrasi struktur kontrol pemilihan if-else-else if dengan evaluasi nilai bertingkat.
 
 ---
